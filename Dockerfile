@@ -1,5 +1,5 @@
 FROM codercom/code-server
-ARG TERRAFORM_VERSION=0.11.13
+ARG TERRAFORM_VERSION=0.12.4
 
 RUN sudo apt-get install -y unzip python
 
